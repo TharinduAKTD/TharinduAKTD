@@ -69,9 +69,6 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   </a>
-  <a href="https://www.bloodshed.net/devcpp.html" target="_blank" rel="noreferrer">
-    <img src="assets/devcpp.png" alt="Dev C++" width="40" height="40"/>
-  </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="40" height="40"/>
   </a>
