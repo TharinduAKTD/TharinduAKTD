@@ -2,7 +2,7 @@
 
 <h3 align="center">Computer Science Graduate | Full-Stack Developer | Tech Enthusiast</h3>
 
-<p align="center">
+<p align="left">
 🎓 BSc in Computer Science graduate from the <b>University of Colombo School of Computing</b><br/>
 💻 Passionate about <b>software engineering, full-stack web development, and AI-driven solutions</b><br/>
 🚀 Experienced in <b>MERN stack, Python, Java, FastAPI, MySQL, and 3D visualization with Three.js</b><br/>
@@ -48,7 +48,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI-Dark.svg" alt="FastAPI" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI-Dark.svg" alt="FastAPI" width="40" height="40"/>
   </a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" alt="Three.js" width="40" height="40"/>
@@ -75,14 +75,6 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VS Code" width="40" height="40"/>
   </a>
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TharinduAKTD&show_icons=true&theme=tokyonight" alt="Tharindu's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharinduAKTD&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
